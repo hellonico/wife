@@ -1,1 +1,0 @@
-([:dependencies ([commons-lang/commons-lang "2.6"] [rhino/js "1.7R2"] [org.clojure/clojure "1.6.0"] [com.aphyr/prism "0.1.1"])])
